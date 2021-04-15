@@ -15,7 +15,7 @@ pip3 install opencv-python
 Instally numpy:
 pip install numpy
 
-II- Start the video stream:
+II- Server starts the video stream:
 
 The following command will video stream from camera to the network 224.0.0.1 port 8090 :
 
